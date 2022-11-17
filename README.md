@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil. Permita-me apresentar-me.
 
-- 💼 Trabalho como Auxiliar de T.I
+- 💼 Auxiliar de T.I
 - 🎒 Graduando em Ciência da Computação (6/8)
 - 👨‍💻 Sou entusiasta em desenvolvimento web e mobile
 - 🧠 Empenhado em aprender novas tecnologias 
