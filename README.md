@@ -2,7 +2,7 @@
 
 - 💼 Auxiliar de T.I
 - 🎒 Graduando em Ciência da Computação (6/8)
-- 👨‍💻 Sou entusiasta em desenvolvimento web e mobile
+- 👨‍💻 Entusiasta em desenvolvimento web e mobile
 - 🧠 Empenhado em aprender novas tecnologias 
 
 <div align="left">
