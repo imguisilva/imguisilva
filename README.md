@@ -17,6 +17,12 @@
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-  
+ 
 ##
+<div>
+
+<a href="https://www.linkedin.com/in/imguilhermesilva/" target="_blank"><img align="center" alt="Guilherme-Linkedin" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+
+</div>
+          
+          
