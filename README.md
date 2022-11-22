@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil. Permita-me apresentar-me.
+## Sobre mim:
 
 - 💼 Auxiliar de T.I
 - 🎒 Graduando em Ciência da Computação (6/8)
