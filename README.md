@@ -1,7 +1,7 @@
 ## Sobre mim:
 
 - 🎒 Graduando em Ciência da Computação (8/8)
-- 👨‍💻 DEV WEB e RPA
+- 👨‍💻 Desenvolvedor RPA e Front-end
 - 🧠 Empenhado em aprender novas tecnologias 
 
 <div align="left">
